@@ -9,8 +9,8 @@ const ArticleSchema = new Schema({
     type: String,
     required: true
   },
-//   `summary` is required and of type String
-  summary: {
+//   `author` is required and of type String
+  author: {
     type: String,
     required: true
   },
